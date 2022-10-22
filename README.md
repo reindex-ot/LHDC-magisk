@@ -1,6 +1,6 @@
 # LHDC Magisk Module
 
-LHDCコーデックをMagiskで追加します。
+LHDC(Low latency and High-Definition audio Codec)をMagiskで追加します。
 
 ## インストール要件
 - Android 8以上で動作するっぽい?
