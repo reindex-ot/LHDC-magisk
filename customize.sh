@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  APTX finally for Android 10  "
+  ui_print "       LHDC Magisk Module      "
   ui_print "*******************************"
 }
 
